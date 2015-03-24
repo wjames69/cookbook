@@ -6,4 +6,5 @@
 ### Instructions
 
 1. Dunk bread in eggs
-1. Fry on griddle
+2. Fry on griddle
+3. sprinkle with cinnamon and sugar
