@@ -4,6 +4,7 @@
 * 1 Cup buttermilk
 * 1 tsp baking powder
 * pinch of salt
+* 3 tsp sugar
 
 ### Instructions
 
