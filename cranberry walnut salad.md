@@ -1,6 +1,6 @@
 
 * spring mix
 * walnut
-* carnberry
+* cranberry
 * olive oil
 * pear vineger
